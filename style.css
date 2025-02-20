@@ -11,13 +11,13 @@ body {
 
 
 h1 {
-	font-size:15px;
+	font-size: 24px;
 	font-color:#61267F;
 }
 h2 {
 	color:#61267F;
 	font-weight:bolder;
-	font-size:14px;
+	font-size:20px;
 	float:none;
 }
 h3 {
@@ -165,6 +165,7 @@ a:hover {
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
+    border-radius: 5px;
 }
 p.normal {
 	font-variant:normal;
